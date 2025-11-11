@@ -11,3 +11,12 @@ A note to keep track of the agentic AI building block and frameworks
 | **4** | **Planning**                         | 🗺️ **Strategic reasoning (goal → steps)**  | **LangGraph Planner nodes**, **CrewAI Director**, **AutoGen Planner**, **Tree-of-Thought / ReAct** patterns        |
 | **5** | **Guardrails / Safety / Policy**     | 🛡️ **Ethical & compliance gatekeeper**    | **Guardrails AI**, **NVIDIA NeMo Guardrails**, **LlamaGuard**, **OpenAI Moderation** |
 | **6** | **Evaluation / Feedback / EvalsOps** | 🔍 **Performance & learning loop**         | **LangFuse**, **LangSmith** |
+
+
+| Catogory      | Libraries or Frameworks | Use case                         |
+|-------------- | ------------------------| -------------------------------- |
+|   Source      | docling                 | doc -> structured data for GenAI |
+|               | unstructured            |                                  |
+|               | craw4ai                 | site -> knowledge store          |
+|   RAG Query   | LlamaIndex              |                                  |
+|               | Haystack                |                                  |
