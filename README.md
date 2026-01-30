@@ -24,5 +24,7 @@ A note to keep track of the agentic AI building block and frameworks
 
 - [Auto Claude](https://github.com/AndyMik90/Auto-Claude)
 - [Ralph](https://github.com/snarktank/ralph)
-- [Contex7]
+- [Context Engineering](https://github.com/Apoo711/Context-Engineering)
+- [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)
+- [Contex7](https://github.com/upstash/context7)
   
