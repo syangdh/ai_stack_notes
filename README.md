@@ -21,3 +21,8 @@ A note to keep track of the agentic AI building block and frameworks
 |               | craw4ai                 | site -> knowledge store          |
 |   RAG Query   | LlamaIndex              |                                  |
 |               | Haystack                |                                  |
+
+- [Auto Claude](https://github.com/AndyMik90/Auto-Claude)
+- [Ralph](https://github.com/snarktank/ralph)
+- [Contex7]
+  
