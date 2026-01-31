@@ -22,9 +22,16 @@ A note to keep track of the agentic AI building block and frameworks
 |   RAG Query   | LlamaIndex              |                                  |
 |               | Haystack                |                                  |
 
-- [Auto Claude](https://github.com/AndyMik90/Auto-Claude)
-- [Ralph](https://github.com/snarktank/ralph)
-- [Context Engineering](https://github.com/Apoo711/Context-Engineering)
-- [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)
-- [Contex7](https://github.com/upstash/context7)
+
+Coding Tools and Resources
+| Catogory               | Libraries or Frameworks                                                 | Use case                         |
+|----------------------- | ------------------------------------------------------------------------| -------------------------------- |
+|   Coding Autonomy      | [Auto Claude](https://github.com/AndyMik90/Auto-Claude)                 |                                  |
+|                        | [Ralph](https://github.com/snarktank/ralph)                             |                                  |
+|                        | [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code)     |                                  |
+|   Context Eng Method   | [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)                    |                                  |
+|                        | [Context Engineering](https://github.com/Apoo711/Context-Engineering)   |                                  |
+|   MCP Resource         | [MCP](https://mcpservers.org/))                                         |                                  |
+|                        | [Contex7](https://github.com/upstash/context7)                          |                                  |
+
   
