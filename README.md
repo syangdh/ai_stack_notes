@@ -28,6 +28,7 @@ Coding Tools and Resources
 |----------------------- | ------------------------------------------------------------------------| -------------------------------- |
 |   Coding Autonomy      | [Auto Claude](https://github.com/AndyMik90/Auto-Claude)                 |                                  |
 |                        | [Ralph](https://github.com/snarktank/ralph)                             |                                  |
+|                        | [SuperPower](https://github.com/obra/superpowers)                       |                                  |
 |                        | [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code)     |                                  |
 |   Context Eng Method   | [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)                    |                                  |
 |                        | [Context Engineering](https://github.com/Apoo711/Context-Engineering)   |                                  |
@@ -35,6 +36,7 @@ Coding Tools and Resources
 |                        | [Spec Kit](https://github.com/github/spec-kit)                          |                                  |
 |   MCP Resource         | [MCP](https://mcpservers.org/)                                         |                                  |
 |                        | [Contex7](https://github.com/upstash/context7)                          |                                  |
+|                        | [Pal MCP](https://github.com/BeehiveInnovations/pal-mcp-server)         |                                  |
 |   Skills Resource      | [Skills](https://skills.sh/)                                           |                                  |
 
   
