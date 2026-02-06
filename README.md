@@ -31,6 +31,8 @@ Coding Tools and Resources
 |                        | [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code)     |                                  |
 |   Context Eng Method   | [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)                    |                                  |
 |                        | [Context Engineering](https://github.com/Apoo711/Context-Engineering)   |                                  |
+|                        | [Open Spec](https://github.com/Fission-AI/OpenSpec)                     |                                  |
+|                        | [Spec Kit](https://github.com/github/spec-kit)                          |                                  |
 |   MCP Resource         | [MCP](https://mcpservers.org/)                                         |                                  |
 |                        | [Contex7](https://github.com/upstash/context7)                          |                                  |
 |   Skills Resource      | [Skills](https://skills.sh/)                                           |                                  |
