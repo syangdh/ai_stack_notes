@@ -42,6 +42,7 @@ Coding Tools and Resources
 |                        | [Spec Kit](https://github.com/github/spec-kit)                          |                                  |
 |   MCP Resource         | [MCP](https://mcpservers.org/)                                         |                                  |
 |                        | [Contex7](https://github.com/upstash/context7)                          |                                  |
+|                        | [Cyrus](https://github.com/ceedaragents/cyrus)                          |                                  |
 |                        | [Pal MCP](https://github.com/BeehiveInnovations/pal-mcp-server)         |                                  |
 |   Skills Resource      | [Skills](https://skills.sh/)                                           |                                  |
 
