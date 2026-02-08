@@ -23,6 +23,9 @@ A note to keep track of the agentic AI building block and frameworks
 |               | Haystack                |                                  |
 
 
+![sdd-mindset](https://github.com/user-attachments/assets/6ec4ffc6-3bdf-45b9-b79f-382756b690f8)
+
+
 Coding Tools and Resources
 | Catogory               | Libraries or Frameworks                                                 | Use case                         |
 |----------------------- | ------------------------------------------------------------------------| -------------------------------- |
