@@ -27,6 +27,7 @@ Coding Tools and Resources
 | Catogory               | Libraries or Frameworks                                                 | Use case                         |
 |----------------------- | ------------------------------------------------------------------------| -------------------------------- |
 |   Coding Autonomy      | [Auto Claude](https://github.com/AndyMik90/Auto-Claude)                 |                                  |
+|                        | [Claud Flow](https://github.com/ruvnet/claude-flow)                     |                                  |
 |                        | [Ralph](https://github.com/snarktank/ralph)                             |                                  |
 |                        | [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code)     |                                  |
 |                        | [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty))                |                                  |
