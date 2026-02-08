@@ -35,6 +35,7 @@ Coding Tools and Resources
 |                        | [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code)     |                                  |
 |                        | [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty))                |                                  |
 |                        | [SuperPower](https://github.com/obra/superpowers)                       |                                  |
+|                        | [GSD](https://github.com/glittercowboy/get-shit-done)                   |                                  |
 |   Context Eng Method   | [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)                    |                                  |
 |                        | [Context Engineering](https://github.com/Apoo711/Context-Engineering)   |                                  |
 |                        | [Open Spec](https://github.com/Fission-AI/OpenSpec)                     |                                  |
