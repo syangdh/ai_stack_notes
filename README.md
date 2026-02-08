@@ -40,8 +40,10 @@ Coding Tools and Resources
 |                        | [Context Engineering](https://github.com/Apoo711/Context-Engineering)   |                                  |
 |                        | [Open Spec](https://github.com/Fission-AI/OpenSpec)                     |                                  |
 |                        | [Spec Kit](https://github.com/github/spec-kit)                          |                                  |
-|   MCP Resource         | [MCP](https://mcpservers.org/)                                         |                                  |
+|   MCP Resource         | [MCP](https://mcpservers.org/)                                          |                                  |
+|                        | [Serena](https://github.com/oraios/serena)                              | Project memory and session persistence |
 |                        | [Contex7](https://github.com/upstash/context7)                          |                                  |
+|                        | [Sequential Thinking]()                                                 |                                  |
 |                        | [Cyrus](https://github.com/ceedaragents/cyrus)                          |                                  |
 |                        | [Pal MCP](https://github.com/BeehiveInnovations/pal-mcp-server)         |                                  |
 |   Skills Resource      | [Skills](https://skills.sh/)                                           |                                  |
