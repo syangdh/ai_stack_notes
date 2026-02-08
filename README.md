@@ -28,8 +28,9 @@ Coding Tools and Resources
 |----------------------- | ------------------------------------------------------------------------| -------------------------------- |
 |   Coding Autonomy      | [Auto Claude](https://github.com/AndyMik90/Auto-Claude)                 |                                  |
 |                        | [Ralph](https://github.com/snarktank/ralph)                             |                                  |
-|                        | [SuperPower](https://github.com/obra/superpowers)                       |                                  |
 |                        | [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code)     |                                  |
+|                        | [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty))                |                                  |
+|                        | [SuperPower](https://github.com/obra/superpowers)                       |                                  |
 |   Context Eng Method   | [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)                    |                                  |
 |                        | [Context Engineering](https://github.com/Apoo711/Context-Engineering)   |                                  |
 |                        | [Open Spec](https://github.com/Fission-AI/OpenSpec)                     |                                  |
