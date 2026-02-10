@@ -33,7 +33,7 @@ Coding Tools and Resources
 |                        | [Claud Flow](https://github.com/ruvnet/claude-flow)                     |                                  |
 |                        | [Ralph](https://github.com/snarktank/ralph)                             |                                  |
 |                        | [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code)     |                                  |
-|                        | [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty))                |                                  |
+|                        | [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty)                 |                                  |
 |                        | [SuperPower](https://github.com/obra/superpowers)                       |                                  |
 |                        | [GSD](https://github.com/glittercowboy/get-shit-done)                   |                                  |
 |   Context Eng Method   | [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)                    |                                  |
