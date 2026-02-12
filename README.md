@@ -48,4 +48,6 @@ Coding Tools and Resources
 |                        | [Pal MCP](https://github.com/BeehiveInnovations/pal-mcp-server)         |                                  |
 |   Skills Resource      | [Skills](https://skills.sh/)                                           |                                  |
 
-  
+
+
+[Spec2Beads](https://smithery.ai/skills/lucastamoios/openspec-to-beads)
