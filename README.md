@@ -51,5 +51,10 @@ Coding Tools and Resources
 
 
 Misc:
-[Spec2Beads](https://smithery.ai/skills/lucastamoios/openspec-to-beads)
-[GasTown](https://wasteland.gastownhall.ai/)
+- [Spec2Beads](https://smithery.ai/skills/lucastamoios/openspec-to-beads)
+- [GasTown](https://wasteland.gastownhall.ai/)
+
+Claude Code Usage Tips:
+- Context Window Hygiene: e.g., use { allow : "Edit(*)" } but only to this project, instead of a huge list permitted resource;
+- Be careful when you install a long list of skills (but rarely used)
+
