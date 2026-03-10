@@ -53,6 +53,7 @@ Coding Tools and Resources
 Misc:
 - [Spec2Beads](https://smithery.ai/skills/lucastamoios/openspec-to-beads)
 - [GasTown](https://wasteland.gastownhall.ai/)
+- [SuperMemory](https://github.com/supermemoryai)
 
 Claude Code Usage Tips:
 - Context Window Hygiene: e.g., use { allow : "Edit(*)" } but only to this project, instead of a huge list permitted resource;
