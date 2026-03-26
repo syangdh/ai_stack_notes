@@ -47,7 +47,10 @@ Coding Tools and Resources
 |                        | [Sequential Thinking]()                                                 |                                  |
 |                        | [Cyrus](https://github.com/ceedaragents/cyrus)                          |                                  |
 |                        | [Pal MCP](https://github.com/BeehiveInnovations/pal-mcp-server)         |                                  |
-|   Skills Resource      | [Skills](https://skills.sh/)                                           |                                  |
+|   Skills Resource      | [Skills](https://skills.sh/)                                            |                                  |
+|   Product Building     | [ChatDev 2.0](https://github.com/OpenBMB/ChatDev)                       |                                  |
+|                        | [MetaGPT](https://github.com/FoundationAgents/MetaGPT)                  |                                  |
+
 
 
 
