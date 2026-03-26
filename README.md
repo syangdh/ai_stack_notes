@@ -51,6 +51,8 @@ Coding Tools and Resources
 |   Skills Resource      | [Skills](https://skills.sh/)                                            |                                  |
 |   Product Building     | [ChatDev 2.0](https://github.com/OpenBMB/ChatDev)                       |                                  |
 |                        | [MetaGPT](https://github.com/FoundationAgents/MetaGPT)                  |                                  |
+|                        | [OpenHands](https://github.com/OpenHands/OpenHands)                     |                                  |
+|                        | [AutoGPT](https://github.com/significant-gravitas/autogpt)              |                                  |
 
 
 
