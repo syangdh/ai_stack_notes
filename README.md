@@ -59,4 +59,5 @@ Misc:
 Claude Code Usage Tips:
 - Context Window Hygiene: e.g., `use { allow : "Edit(*)" }` but only to this project, instead of a huge list permitted resource;
 - Be careful when you install a long list of skills (but rarely used)
+- combine [superpower with gstack](https://m.youtube.com/watch?v=Y9hR2M4FE4I)
 
