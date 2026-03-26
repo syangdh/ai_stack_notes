@@ -36,6 +36,7 @@ Coding Tools and Resources
 |                        | [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty)                 |                                  |
 |                        | [SuperPower](https://github.com/obra/superpowers)                       |                                  |
 |                        | [GSD](https://github.com/glittercowboy/get-shit-done)                   |                                  |
+|                        | [GStack](https://github.com/garrytan/gstack)                            |                                  |
 |   Context Eng Method   | [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)                    |                                  |
 |                        | [Context Engineering](https://github.com/Apoo711/Context-Engineering)   |                                  |
 |                        | [Open Spec](https://github.com/Fission-AI/OpenSpec)                     |                                  |
@@ -56,6 +57,6 @@ Misc:
 - [SuperMemory](https://github.com/supermemoryai)
 
 Claude Code Usage Tips:
-- Context Window Hygiene: e.g., use { allow : "Edit(*)" } but only to this project, instead of a huge list permitted resource;
+- Context Window Hygiene: e.g., `use { allow : "Edit(*)" }` but only to this project, instead of a huge list permitted resource;
 - Be careful when you install a long list of skills (but rarely used)
 
