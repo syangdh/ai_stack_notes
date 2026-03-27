@@ -37,8 +37,9 @@ Coding Tools and Resources
 |                        | [SuperPower](https://github.com/obra/superpowers)                       |                                  |
 |                        | [GSD](https://github.com/glittercowboy/get-shit-done)                   |                                  |
 |                        | [GStack](https://github.com/garrytan/gstack)                            |                                  |
-|                        | [AutoResearch](https://github.com/karpathy/autoresearch)                |                                  |
-|                        | [ACE](https://github.com/klizhentas/ace)                                | [Paper](https://arxiv.org/pdf/2603.19461)                                 |
+|Self Improving Software | [AutoResearch](https://github.com/karpathy/autoresearch)                |                                  |
+|                        | [ACE](https://github.com/klizhentas/ace)                | [Paper](https://arxiv.org/pdf/2603.19461)        |
+|                        | [DSPy](https://github.com/Strategic-Automation/dspy-compounding-engineering)           |                  |
 |   Context Eng Method   | [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)                    |                                  |
 |                        | [Context Engineering](https://github.com/Apoo711/Context-Engineering)   |                                  |
 |                        | [Open Spec](https://github.com/Fission-AI/OpenSpec)                     |                                  |
