@@ -63,6 +63,7 @@ Misc:
 - [Spec2Beads](https://smithery.ai/skills/lucastamoios/openspec-to-beads)
 - [GasTown](https://wasteland.gastownhall.ai/)
 - [SuperMemory](https://github.com/supermemoryai)
+- [harness engineering](https://m.youtube.com/watch?v=ugKW_Dv37Bk)
 
 Claude Code Usage Tips:
 - Context Window Hygiene: e.g., `use { allow : "Edit(*)" }` but only to this project, instead of a huge list permitted resource;
