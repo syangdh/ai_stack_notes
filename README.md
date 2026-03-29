@@ -66,7 +66,7 @@ Misc:
 - [harness engineering](https://m.youtube.com/watch?v=ugKW_Dv37Bk)
 - [DevOps Harness](https://developer.harness.io/docs/platform/harness-ai/harness-agents/)
 - [Anthropic Harness Engineering](https://www.anthropic.com/engineering/harness-design-long-running-apps)
-- [Harness Design](https://github.com/revfactory/harness_
+- [Harness Design](https://github.com/revfactory/harness)
 
 Claude Code Usage Tips:
 - Context Window Hygiene: e.g., `use { allow : "Edit(*)" }` but only to this project, instead of a huge list permitted resource;
