@@ -12,6 +12,8 @@ A note to keep track of the agentic AI building block and frameworks
 |       |                                      | 💾 **Context + personalization**           | [Text2Mem](https://github.com/MemTensor/text2mem)     |
 |       |                                      | 💾 **Context + personalization**           | [letta(MemGPT)](https://github.com/letta-ai/letta)    |
 |       |                                      | 💾 **Context + personalization**           | memU          |
+|       |                                      | 💾 **Context + personalization**           | graphify          |
+|       |                                      | 💾 **Context + personalization**           | rowboat          |
 | **3** | **Tools / Function Interface**       | 🧰 **Action layer (hands)**                | **Function Calling**, **MCP** |
 | **4** | **Planning**                         | 🗺️ **Strategic reasoning (goal → steps)**  | **LangGraph Planner nodes**, **CrewAI Director**, **AutoGen Planner**, **Tree-of-Thought / ReAct** patterns        |
 | **5** | **Guardrails / Safety / Policy**     | 🛡️ **Ethical & compliance gatekeeper**    | **Guardrails AI**, **NVIDIA NeMo Guardrails**, **LlamaGuard**, **OpenAI Moderation** |
@@ -60,7 +62,10 @@ Coding Tools and Resources
 |                        | [MetaGPT](https://github.com/FoundationAgents/MetaGPT)                  |                                  |
 |                        | [OpenHands](https://github.com/OpenHands/OpenHands)                     |                                  |
 |                        | [AutoGPT](https://github.com/significant-gravitas/autogpt)              |                                  |
-
+|   Agent Examples       | OpenClaw                       |                                  |
+|                        | Hermes-agent                   |                                  |
+|   Agent Examples       | OpenClaw                       |                                  |
+|                        | Hermes-agent                   |                                  |
 
 
 
