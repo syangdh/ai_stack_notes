@@ -7,13 +7,13 @@ A note to keep track of the agentic AI building block and frameworks
 | ----- | ------------------------------------ | ------------------------------------------ | ------------------------------------------- |
 | **1** | **Orchestration / Core Loop**        | 🧠 **The agent’s brainstem**               | **LangGraph**, **Pydantic AI**, **Google ADK**, **CrewAI**, **OpenAI Agents SDK**, **Dify**    |
 | **2** | **Memory**                           | 💾 **Context + personalization**           | **Mem0**,             |
-|       |                                      | 💾 **Context + personalization**           | **Graphiti**,            |
-|       |                                      | 💾 **Context + personalization**           | **Supabase Vector**           |
-|       |                                      | 💾 **Context + personalization**           | [Text2Mem](https://github.com/MemTensor/text2mem)     |
-|       |                                      | 💾 **Context + personalization**           | [letta(MemGPT)](https://github.com/letta-ai/letta)    |
-|       |                                      | 💾 **Context + personalization**           | memU          |
-|       |                                      | 💾 **Context + personalization**           | graphify          |
-|       |                                      | 💾 **Context + personalization**           | rowboat          |
+|       |                                      |            | **Graphiti**,            |
+|       |                                      |            | **Supabase Vector**           |
+|       |                                      |            | [Text2Mem](https://github.com/MemTensor/text2mem)     |
+|       |                                      |            | [letta(MemGPT)](https://github.com/letta-ai/letta)    |
+|       |                                      |            | memU          |
+|       |                                      |            | graphify          |
+|       |                                      |            | rowboat          |
 | **3** | **Tools / Function Interface**       | 🧰 **Action layer (hands)**                | **Function Calling**, **MCP** |
 | **4** | **Planning**                         | 🗺️ **Strategic reasoning (goal → steps)**  | **LangGraph Planner nodes**, **CrewAI Director**, **AutoGen Planner**, **Tree-of-Thought / ReAct** patterns        |
 | **5** | **Guardrails / Safety / Policy**     | 🛡️ **Ethical & compliance gatekeeper**    | **Guardrails AI**, **NVIDIA NeMo Guardrails**, **LlamaGuard**, **OpenAI Moderation** |
