@@ -64,8 +64,7 @@ Coding Tools and Resources
 |                        | [AutoGPT](https://github.com/significant-gravitas/autogpt)              |                                  |
 |   Agent Examples       | OpenClaw                       |                                  |
 |                        | Hermes-agent                   |                                  |
-|   Agent Examples       | OpenClaw                       |                                  |
-|                        | Hermes-agent                   |                                  |
+
 
 
 
