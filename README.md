@@ -62,8 +62,8 @@ Coding Tools and Resources
 |                        | [MetaGPT](https://github.com/FoundationAgents/MetaGPT)                  |                                  |
 |                        | [OpenHands](https://github.com/OpenHands/OpenHands)                     |                                  |
 |                        | [AutoGPT](https://github.com/significant-gravitas/autogpt)              |                                  |
-|   Agent Examples       | OpenClaw                       |                                  |
-|                        | Hermes-agent                   |                                  |
+|   Agent Examples       | [OpenClaw](https://github.com/openclaw/openclaw)                        |                                  |
+|                        | [Hermes-agent](https://github.com/nousresearch/hermes-agent)            |                                  |
 |                        | [Mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)      |                                  |
 
 
