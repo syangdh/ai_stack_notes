@@ -65,6 +65,9 @@ Coding Tools and Resources
 |   Agent Examples       | [OpenClaw](https://github.com/openclaw/openclaw)                        |                                  |
 |                        | [Hermes-agent](https://github.com/nousresearch/hermes-agent)            |                                  |
 |                        | [Mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)      |                                  |
+|   LLM Wiki            | [SwarmVault](https://www.swarmvault.ai/)                                 |                                  |
+|                        | [Karpathy Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)  |                         |
+|                        | [Kompl](https://mcpmarket.com/server/kompl)      |                                  |
 
 
 
