@@ -11,6 +11,7 @@ A note to keep track of the agentic AI building block and frameworks
 |       |                                      |            | **Supabase Vector**           |
 |       |                                      |            | [Text2Mem](https://github.com/MemTensor/text2mem)     |
 |       |                                      |            | [letta(MemGPT)](https://github.com/letta-ai/letta)    |
+|       |                                      |            | [PageIndex](https://github.com/VectifyAI/PageIndex)    |
 |       |                                      |            | memU          |
 |       |                                      |            | graphify          |
 |       |                                      |            | rowboat          |
