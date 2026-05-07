@@ -68,7 +68,10 @@ Coding Tools and Resources
 |   LLM Wiki            | [SwarmVault](https://www.swarmvault.ai/)                                 |                                  |
 |                        | [Karpathy Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)  |                         |
 |                        | [Kompl](https://mcpmarket.com/server/kompl)      |                                  |
-|                        | [Synthadoc](https://github.com/axoviq-ai/synthadoc)      |                                  |
+|                        | [Synthadoc](https://github.com/axoviq-ai/synthadoc)                    |                                  |
+|                        | [Canifi](https://www.canifi.com/)                                      |                                  |
+
+
 
 
 
