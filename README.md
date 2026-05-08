@@ -67,10 +67,10 @@ Coding Tools and Resources
 |                        | [Hermes-agent](https://github.com/nousresearch/hermes-agent)            |                                  |
 |                        | [Mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)      |                                  |
 |   LLM Wiki            | [SwarmVault](https://www.swarmvault.ai/)                                 |                                  |
-|                        | [Karpathy Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)  |                         |
+|                        | [Karpathy Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)  |                  |
 |                        | [Kompl](https://mcpmarket.com/server/kompl)      |                                  |
 |                        | [Synthadoc](https://github.com/axoviq-ai/synthadoc)                    |                                  |
-|                        | [Canifi](https://www.canifi.com/)                                      |                                  |
+|                        | [Canifi](https://www.canifi.com/), [Canifi OS](https://github.com/andrejones92/canifi-life-os)    |      |
 
 
 
