@@ -28,6 +28,7 @@ A note to keep track of the agentic AI building block and frameworks
 |               | unstructured            |                                  |
 |               | craw4ai                 | site -> knowledge store          |
 |               | [Scrapling](https://github.com/D4Vinci/Scrapling) |        |
+|               | [Scrappy](https://github.com/scrapy/scrapy) |              |
 |   RAG Query   | [LlamaIndex](https://www.llamaindex.ai/)              |             |
 |               | Haystack                |                                  |
 
