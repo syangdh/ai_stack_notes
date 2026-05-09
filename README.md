@@ -27,7 +27,8 @@ A note to keep track of the agentic AI building block and frameworks
 | Data Source   | docling                 | doc -> structured data for GenAI |
 |               | unstructured            |                                  |
 |               | craw4ai                 | site -> knowledge store          |
-|   RAG Query   | [LlamaIndex](https://www.llamaindex.ai/)              |                                  |
+|               | [Scrapling](https://github.com/D4Vinci/Scrapling) |        |
+|   RAG Query   | [LlamaIndex](https://www.llamaindex.ai/)              |             |
 |               | Haystack                |                                  |
 
 
