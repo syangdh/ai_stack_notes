@@ -99,3 +99,8 @@ Claude Code Usage Tips:
 - Be careful when you install a long list of skills (but rarely used)
 - combine [superpower with gstack](https://m.youtube.com/watch?v=Y9hR2M4FE4I)
 
+AWS Testing
+- Localstack
+- [Ministack](https://github.com/ministackorg/ministack)
+- [Floci](https://github.com/floci-io/floci)
+  
