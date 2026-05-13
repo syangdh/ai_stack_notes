@@ -15,6 +15,13 @@ A note to keep track of the agentic AI building block and frameworks
 |       |                                      |            | memU          |
 |       |                                      |            | graphify          |
 |       |                                      |            | rowboat          |
+|       |                                      |            | Honcho          |
+|       |                                      |            | holographic          |
+|       |                                      |            | retaindb          |
+|       |                                      |            | [SuperMemory](https://github.com/supermemoryai/supermemory)          |
+|       |                                      |            | [ByteRover](https://github.com/campfirein/byterover-cli)          |
+|       |                                      |            | [HindSight](https://github.com/vectorize-io/hindsight)          |
+|       |                                      |            | [OpenViking](https://github.com/volcengine/OpenViking)          |
 | **3** | **Tools / Function Interface**       | 🧰 **Action layer (hands)**                | **Function Calling**, **MCP** |
 | **4** | **Planning**                         | 🗺️ **Strategic reasoning (goal → steps)**  | **LangGraph Planner nodes**, **CrewAI Director**, **AutoGen Planner**, **Tree-of-Thought / ReAct** patterns        |
 | **5** | **Guardrails / Safety / Policy**     | 🛡️ **Ethical & compliance gatekeeper**    | **Guardrails AI**, **NVIDIA NeMo Guardrails**, **LlamaGuard**, **OpenAI Moderation** |
