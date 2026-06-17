@@ -19,7 +19,7 @@ A note to keep track of the agentic AI building block and frameworks
 |       |                                      |            | holographic          |
 |       |                                      |            | retaindb          |
 |       |                                      |            | [SuperMemory](https://github.com/supermemoryai/supermemory)          |
-|       |                                      |            | [MemOS](https://github.com/usememos/memos)          |
+|       |                                      |            | [MemOS](https://github.com/MemTensor/MemOS)          |
 |       |                                      |            | [ByteRover](https://github.com/campfirein/byterover-cli)          |
 |       |                                      |            | [HindSight](https://github.com/vectorize-io/hindsight)          |
 |       |                                      |            | [OpenViking](https://github.com/volcengine/OpenViking)          |
